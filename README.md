@@ -13,6 +13,6 @@ The software was implemented on a Pioneer P3DX mobile robot platform equiped wit
 The platform was tested in the Living Lab at the University of Salford
 
 <p align="center"> 
-<img src="/img/img3.jpg">
+<img src="/img/img3.jpg" style="max-width:50%>
 </p> 
 To identify the landmarks in the room an object detection model was used (SSD MobileNet)
