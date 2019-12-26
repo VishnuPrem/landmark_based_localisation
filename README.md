@@ -60,6 +60,8 @@ The candidate locations of the robot are computed geometrically
 Based on the amount of rotation between the two landmarks, the actual location of the robot is computed
 
 ## Navigation
+
+The robot navigates by combining the object detection, obstacle avoidance and loaclisation modules
 <p align="center">
 <a href="https://www.youtube.com/watch?v=EVmXJM0tmb4">
          <img alt="Navigation" src="/img/img9.jpg" width="400" >
