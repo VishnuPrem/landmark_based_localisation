@@ -1,9 +1,18 @@
-# MobileRobotNavigationAndLocalisation
+# Landmark based localisation using RGBD sensor
 
-https://www.youtube.com/watch?v=EVmXJM0tmb4
+A mobile robot was programmed to navigate and localise in an indoor envoronment using RGBD sensor data, an Object recognition model and sonar sensors. 
 
-This project involves a Pioneer P3DX mobile robot programmed to navigate and localise in an indoor envoronment using RGBD sensor data, an Object recognition model and sonar sensors. Path planning done with tangent bug algorithm.
+<p align="center"> 
+<img src="/img/img1.jpg">
+</p> 
+The software was implemented on a Pioneer P3DX mobile robot platform equiped with an ASUS Xtion Pro RGBD sensor shown above
+
+<p align="center"> 
+<img src="/img/img2.jpg">
+</p> 
+The platform was tested in the Living Lab at the University of Salford
 
 <p align="center"> 
 <img src="/img/img3.jpg">
 </p> 
+To identify the landmarks in the room an object detection model was used (SSD MobileNet)
