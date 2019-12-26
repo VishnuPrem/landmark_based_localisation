@@ -63,5 +63,3 @@ Based on the amount of rotation between the two landmarks, the actual location o
 </a>
 </p>
 
-
- 
