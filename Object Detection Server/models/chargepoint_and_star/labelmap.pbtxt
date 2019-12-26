@@ -1,0 +1,11 @@
+item {
+  name: 'chargepoint'
+  id: 1
+  display_name: 'chargepoint'
+}
+
+item {
+  name: 'star'
+  id: 2
+  display_name: 'star'
+}
