@@ -27,7 +27,10 @@ To identify the landmarks in the room an object detection model was used (SSD Mo
 The model was retrained to identify 2 new classes, a star and a charge point symbol. Several images were taken of the the two classes in various environments and lighting conditions to form a good training set.
 
 By using the object detection model, once the position of an identified landmark was found, this information could be used to determine the distance of the obstacle from the robot by finding the value of the corresponding pixel in the depth image obtained from the depth camera. The working is shown below.
-![](gif1.gif)
+
+<p align="center"> 
+<img src="/img/gif1.gif" height = "200"/>
+</p>
 
 ## Obstacle Avoidance
 
