@@ -18,7 +18,7 @@ The platform was tested in the Living Lab at the University of Salford
 <img src="/img/img3.jpg" width = "400"/>
 </p> 
  
-To identify the landmarks in the room an object detection model was used (SSD MobileNet). The model forms a bounding box around the items identified. By computing the centroid of the bounding box, the position and type of landmark could be identified
+To identify the landmarks in the room an object detection model was used (SSD MobileNet trained on COCO dataset). The model forms a bounding box around the items identified. By computing the centroid of the bounding box, the position and type of landmark could be identified
 
 <p align="center"> 
 <img src="/img/img4.jpg" width = "400"/>
